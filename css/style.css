@@ -256,6 +256,10 @@ img {
   height: 100%;
 }
 
+.small-cards-default-text:hover {
+  color: #0035a0;
+}
+
 .main-news-left-viewer {
   margin-top: 20px;
 }
@@ -344,6 +348,10 @@ img {
   font-weight: 400;
   color: black;
   margin-bottom: 8px;
+}
+
+.main-news-right-text:hover {
+  color: #0035a0;
 }
 
 .main-news-right-foot {
